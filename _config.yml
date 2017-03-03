@@ -1,0 +1,12 @@
+# site settings
+title: hierKomtEenPageTitle
+email: email@mail.io
+description: Hier komt een beschrijving van de site
+# baseurl: ""
+# url: "http://localhost:"
+
+# collection
+
+collections:
+  cookies:
+    output: true
