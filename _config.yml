@@ -6,7 +6,3 @@ description: Hier komt een beschrijving van de site
 # url: "http://localhost:"
 
 # collection
-
-collections:
-  cookies:
-    output: true
