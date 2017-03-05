@@ -2,11 +2,25 @@ header
   h1
     margin-left: 20px
   .headerImg
-    background-image: url("../img/backgroundImg/header.jpg")
+    background-image: url($baseurl + "img/backgroundImg/header.jpg")
     background-size: contain
     background-repeat: no-repeat
     background-position: center
     height: 70vh
+    display: flex
+    align-items: flex-end
+    justify-content: center
+
+    .buyNow
+      background-color: red
+      border-radius: 10px
+      display: flex
+      justify-content: center
+      align-items: center
+      margin-left: 300px
+      margin-bottom: 50px
+      margin-right: 20px
+      padding: 5px 10px
   h3
     color: white
     background-color: $textColor
