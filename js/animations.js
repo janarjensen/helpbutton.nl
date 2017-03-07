@@ -9,11 +9,8 @@ $(function() {
 });
 
 // make buy button appear
-$(window).load(function() {
-    setTimeout(function() {
-        $(".buyNow").show('fadeIn', {}, 1000)
-    }, 2000);
-});
+$(".buyNow").delay(4000).fadeIn(600);
+
 
 // // toggle class on click
 // $("**clickable div id here**").on("click", function(){
