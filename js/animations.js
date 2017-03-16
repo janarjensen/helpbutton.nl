@@ -1,4 +1,7 @@
-console.log("js is working");
+// toggle class on click
+$("#statBurgerNav").click(function(){
+  $("#statNavContent").toggleClass("display displayNot");
+});
 
 // set equal heights to all divs in row
 $(function() {
@@ -7,16 +10,14 @@ $(function() {
 $(function() {
     $('.functionText').matchHeight();
 });
+$(function() {
+    $('.statNavCol').matchHeight();
+});
 
 // make buy button appear
 $(".buyNow").delay(4000).fadeIn(600);
 
 
-// // toggle class on click
-// $("**clickable div id here**").on("click", function(){
-//   $("**div id to recieve togge here**").toggleClass("**class1 class2**");
-// });
-//
 $(document).ready(function () {
   $('.accordion-tabs').each(function(index) {
     $(this).children('li').first().children('a').addClass('is-active').next().addClass('is-open').show();
