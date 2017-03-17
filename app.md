@@ -1,7 +1,8 @@
 ---
 layout: simpleMDPage
+title: app
+imgUrl: img/backgroundImg/app.jpg
 ---
-<h2>V.ALERT APP</h2>
 <div class="container">
   <div class="row">
     <div class="col-lg-6 col-sm-6">
