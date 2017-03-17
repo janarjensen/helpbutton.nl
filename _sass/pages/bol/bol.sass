@@ -1,0 +1,28 @@
+.bol
+  background-image: url("../img/img/bol.jpg")
+  background-size: contain
+  background-position: center center
+  background-repeat: no-repeat
+  min-height: 40vh
+
+  .overlay
+    box-shadow: 5px 5px 15px
+    border: 3px solid $textColor
+    width: 100%
+    background-color: rgba(255, 255, 255, 0.7)
+    display: flex
+    align-items: center
+    justify-content: center
+    h2
+      background-color: rgba(144,238,144, 0.7)
+      padding: 10px 15px
+      border-radius: 30px
+      border: 3px solid $textColor
+    &:hover
+      background-color: rgba(144,238,144, 0.7)
+      h2
+        background-color: rgba(255, 255, 255, 0.7)
+
+    h2
+      &:hover
+        color: $hoverColor

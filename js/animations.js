@@ -19,6 +19,9 @@ $(function() {
 $(function() {
     $('.statNavCol').matchHeight();
 });
+$(function() {
+    $('.bolTemp').matchHeight();
+});
 
 // make buy button appear
 $(".buyNow").delay(4000).fadeIn(600);
