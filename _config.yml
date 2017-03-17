@@ -6,3 +6,6 @@ baseurl: /helpbutton.nl
 permalink: pretty
 
 # collection
+collections:
+  faqs:
+    output: true

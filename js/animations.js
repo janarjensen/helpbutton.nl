@@ -3,6 +3,10 @@ $("#statBurgerNav").click(function(){
   $("#statNavContent").toggleClass("display displayNot");
 });
 
+$(".faqQuestion").click(function(){
+  $(this).find(".faqAnswer").toggleClass("display displayNot");
+});
+
 // set equal heights to all divs in row
 $(function() {
     $('.howCard').matchHeight();
