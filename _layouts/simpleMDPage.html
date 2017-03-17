@@ -3,8 +3,11 @@ layout: default
 ---
 {% include general/logo.html %}
 
-<section id="simpleMDPageid">
+<section class="simpleMDPageid">
   <div class="container">
+    <div class="titleElement" style="background-image: url({{site.baseurl}}/{{ page.imgUrl }})">
+			<h2>{{ page.title }}</h2>
+		</div>
     {{ content }}
   </div>
 </section>

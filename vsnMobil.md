@@ -1,8 +1,8 @@
 ---
 layout: simpleMDPage
+title: VSNmobil
+imgUrl: img/backgroundImg/VSNmobil.jpg
 ---
-## VSNmobil
-
 VSNmobil is een technologie bedrijf gevestigd in de Verenigde Staten. De oprichters van VSNmobil zijn het bedrijf gestart met als hoofddoel:
 
 ~Maak consumenten electronica die voldoet aan de behoeften voor gebruik in het dagelijkse leven
@@ -23,4 +23,6 @@ V.SMARTPHONES (verschillende modellen smartphones)
 
 V.360º (action camera die 360º rond filmt)
 
-Wil je meer weten over VSNmobil ga dan naar www.vsnmobil.com of bezoek een van de sociale platformen waar VSNmobil actief is door hieronder op het gewenste icoontje te klikken.
+Wil je meer weten over VSNmobil ga dan naar [www.vsnmobil.com]
+
+[www.vsnmobil.com]: https://vsnmobil.com
