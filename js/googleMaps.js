@@ -15,7 +15,7 @@ $(function () {
         }
         var map = new google.maps.Map(mapCanvas, mapOptions);
 
-        var markerImage = 'favicon.ico';
+        var markerImage = '../favicon.ico';
 
         var marker = new google.maps.Marker({
             position: location,
@@ -24,7 +24,7 @@ $(function () {
         });
 
         var contentString = '<div class="info-window">' +
-                '<p><strong>LOENZ</strong></p>' +
+                '<p><strong>HELPBUTTON.NL</strong></p>' +
                 '<div class="info-content">' +
                 '<p>Wittgensteinlaan 145, 1062 KD Amsterdam</p>' +
                 '</div>' +

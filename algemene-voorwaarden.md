@@ -1,5 +1,7 @@
 ---
 layout: simpleMDPage
+title: algemene  voorwaarden
+imgUrl: img/backgroundImg/algemeneVoorwaarden.jpg
 ---
 Door ‘ik ga akkoord met de algemene voorwaarden‘ aan te vinkten bij de aankoop, ga je akkoord met de onderstaande algemene verkoopvoorwaarden en bent u op de hoogte dat:
 

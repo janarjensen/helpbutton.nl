@@ -2,4 +2,6 @@
 layout: faq
 question: Hoe zit het met garantie?
 ---
-Op de pagina http://helpbutton.nl/garantie vind je meer informatie over de garantie.
+[HIER] vind je meer informatie over de garantie.
+
+[hier]: {{ site.baseurl}}/garantie

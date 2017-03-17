@@ -1,3 +1,5 @@
+console.log("js is working")
+
 // toggle class on click
 $("#statBurgerNav").click(function(){
   $("#statNavContent").toggleClass("display displayNot");
