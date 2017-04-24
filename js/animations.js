@@ -24,7 +24,7 @@ $(function() {
 });
 
 // make buy button appear
-$(".buyNow").delay(4000).fadeIn(600);
+$(".buyNow").delay(2500).fadeIn(600);
 
 
 $(document).ready(function () {
