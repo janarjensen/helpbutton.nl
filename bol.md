@@ -1,6 +1,6 @@
 ---
 layout: simpleMDPage
-title: Tijdelijk alleen via bol.com te bestellen
+title: Veilig bestellen via bol.com
 imgUrl: img/backgroundImg/verzending.jpg
 ---
 <div class="row">
