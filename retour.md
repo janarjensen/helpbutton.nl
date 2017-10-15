@@ -3,7 +3,11 @@ layout: simpleMDPage
 title: retour
 imgUrl: img/backgroundImg/retour.jpg
 ---
-Je bent niet tevreden en wil iets retourneren, dat kan. Heb je bij BOL.com besteld dan kunt u eenvoudig binnen 14 dagen na aankoop retourneren vanuit uw BOL.com account. Anders volg de onderstaande instuctie.
+Je bent niet tevreden en wil iets retourneren, dat kan. 
+
+Heb je bij bol.com besteld dan kunt u eenvoudig binnen 14 dagen na aankoop retourneren vanuit uw bol.com account. 
+
+Anders volg de onderstaande instuctie.
 
 Om het retourproces vlot en efficiënt te laten verlopen verzoek ik je vriendelijk onderstaande instructies op te volgen:
 
