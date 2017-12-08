@@ -3,9 +3,9 @@ layout: simpleMDPage
 title: retour
 imgUrl: img/backgroundImg/retour.jpg
 ---
-Je bent niet tevreden en wil iets retourneren, dat kan. 
+Je bent niet tevreden en wil iets retourneren, dat kan.
 
-Heb je bij bol.com besteld dan kunt u eenvoudig binnen 14 dagen na aankoop retourneren vanuit uw bol.com account. 
+Heb je bij bol.com besteld dan kunt u eenvoudig binnen 14 dagen na aankoop retourneren vanuit uw bol.com account.
 
 Anders volg de onderstaande instuctie.
 
@@ -26,4 +26,4 @@ vermeld hierin minstens het volgende:
 4.  Stuur het op naar:  
 HELPBUTTON.NL  
 Wittgensteinlaan 145  
-1062KD Amsterdam  
+1062KD AMSTERDAM  
