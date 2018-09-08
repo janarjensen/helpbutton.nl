@@ -15,12 +15,8 @@ imgUrl: img/backgroundImg/verzending.jpg
     <div class="gridSpace bol bolTemp">
       <div class="overlay bolTemp">
         <a href="{% include general/bolLink.html %}"><h2>Bestel de Button</h2></a>
-      </div>
-      <div class="overlay bolTemp">
-        <a href="https://www.bol.com/nl/p/bluetooth-noodknop-paniekknop-senioren-alarm-clip/9200000091400867""><h2>Bestel de Button + Clip</h2></a>
-      </div>
-      <div class="overlay bolTemp">
-        <a href="https://www.bol.com/nl/p/clip-voor-bluetooth-noodknop-paniekknop-senioren-alarm/9200000091399595"><h2>Bestel de Clip</h2></a>
+        <a href="https://www.bol.com/nl/p/bluetooth-noodknop-paniekknop-senioren-alarm-clip/9200000091400867"><h2>Bestel de Button &    Clip</h2></a>
+        <a href="https://www.bol.com/nl/p/clip-voor-bluetooth-noodknop-paniekknop-senioren-alarm/9200000091399595"><h2>Bestel de Clip</h2>        </a>
       </div>
     </div>
   </div>
