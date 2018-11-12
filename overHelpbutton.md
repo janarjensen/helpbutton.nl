@@ -19,6 +19,6 @@ Met hartelijke groet,
 
 Arjen Janssen, (links op de foto)
 
-Oprichter LOENZ.nl & HELPBUTTON.nl
+Oprichter HELPBUTTON.NL
 
 [documentaire bij 2doc]: http://www.2doc.nl/documentaires/series/teledoc/2015/vallend.html
