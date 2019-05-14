@@ -5,8 +5,6 @@ imgUrl: img/backgroundImg/retour.jpg
 ---
 Je bent niet tevreden en wil iets retourneren, dat kan.
 
-Je kan eenvoudig binnen 30 dagen na aankoop retourneren vanuit je bol.com account.
+Je kan eenvoudig binnen 30 dagen na aankoop retourneren vanuit je bol.com account. Hoe? Klik [HIER]
 
-ga naar [bol.com/nl/m/retourneren/] voor meer informatie.
-
-[bol.com/nl/m/retourneren/]: https://www.bol.com/nl/m/retourneren
+[HIER]: https://www.bol.com/nl/m/retourneren
